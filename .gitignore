@@ -1,0 +1,25 @@
+## .NET build artifacts
+bin/
+obj/
+publish/
+[Bb]in/
+[Oo]bj/
+
+## Visual Studio & IDE files
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Log and output files
+*.log
+app_log.txt
+app_crash.log
+*.bak
+
+## Temporary files
+scratch/
+scratch_test/
+*.tmp
